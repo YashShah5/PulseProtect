@@ -1,6 +1,6 @@
 # PulseProtect
 
-![PulseProtect](https://github.com/YashShah5/PulseProtect/assets/109703679/b9fcbf47-d163-40f3-9620-0b95f80d9629)
+![PulseProtect](https://github.com/YashShah5/PulseProtect/assets/109703679/e4749f5a-963a-43e2-b2cd-f0e9b42a6ec0)
 
 Pioneering early pre-heart disease detection in underserved communities through data-driven risk assessment, fostering timely healthcare engagement for improved metabolic health. App &amp; Model tool to detect those at risk for pre-diabetes preventively even before clinical screening. 
 
