@@ -30,7 +30,7 @@ This dataset has been curated by Mohammed Mustafa.
 
 ## Dataset Link
 [Heart Disease Prediction Dataset on Kaggle](https://www.kaggle.com)  
-*Note: Replace this placeholder with the actual URL to the dataset on Kaggle.*
+*Note: This dataset belongs to the author of the dataset.*
 
 ## Getting Started
 To use this dataset in your projects, follow these steps:
