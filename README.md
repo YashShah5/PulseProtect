@@ -14,5 +14,6 @@ This dataset was by MOHAMMED MUSTAFA!
 Please see the video preview of our web-app right here!
 <img width="1233" alt="Screenshot 2024-04-24 at 10 46 11 PM" src="https://github.com/YashShah5/PulseProtect/assets/109703679/d01610c0-f2bc-4231-97da-3a6befcde74a">
 
+<img width="1305" alt="Screenshot 2024-04-24 at 10 47 40 PM" src="https://github.com/YashShah5/PulseProtect/assets/109703679/4253ffe6-d547-41db-96fc-abba452aba63">
 
 
