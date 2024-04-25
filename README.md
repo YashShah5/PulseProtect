@@ -26,7 +26,7 @@ The **Heart Disease Prediction** dataset is primarily used to build machine lear
 - **Researchers**: To explore correlations between various medical conditions and demographic factors, and the development of diabetes.
 
 ## Acknowledgments
-This dataset has been curated by Mohammed Mustafa.
+This dataset has been curated by LARXEL.
 
 ## Dataset Link
 [Heart Disease Prediction Dataset on Kaggle](https://www.kaggle.com)  
