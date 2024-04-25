@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heart Disease Risk Assessment</title>
+</head>
+<body>
+    <h1>Heart Disease Risk Assessment</h1>
+    <form id="heartDiseaseForm">
+        <img src="/PulseProtect.png" alt="cfa"/>
+
+        <p>Gender:</p>
+        <button type="button" onclick="selectOption('gender', 'Male')">Male</button>
+        <button type="button" onclick="selectOption('gender', 'Female')">Female</button>
+        <input type="hidden" id="gender" name="gender">
+
+        <p>Smoker:</p>
+        <button type="button" onclick="selectOption('smoker', 'Yes')">Yes</button>
+        <button type="button" onclick="selectOption('smoker', 'No')">No</button>
+        <input type="hidden" id="smoker" name="smoker">
+
+        <p>Overweight:</p>
+        <button type="button" onclick="selectOption('overweight', 'Yes')">Yes</button>
+        <button type="button" onclick="selectOption('overweight', 'No')">No</button>
+        <input type="hidden" id="overweight" name="overweight">
+
+        <p>Platelet Levels (optional):</p>
+        <input type="text" id="platelets" name="platelets">
+
+        <p>Hypertension:</p>
+        <button type="button" onclick="selectOption('hypertension', 'Yes')">Yes</button>
+        <button type="button" onclick="selectOption('hypertension', 'No')">No</button>
+        <input type="hidden" id="hypertension" name="hypertension">
+
+        <p>Previously Diagnosed with Heart Disease:</p>
+        <button type="button" onclick="selectOption('heartDisease', 'Yes')">Yes</button>
+        <button type="button" onclick="selectOption('heartDisease', 'No')">No</button>
+        <input type="hidden" id="heartDisease" name="heartDisease">
+
+        <p><button type="button" onclick="submitForm()">Submit</button></p>
+    </form>
+
+    <p id="result"></p>
+
+    <script src="index.js"></script>
+</body>
+</html>
