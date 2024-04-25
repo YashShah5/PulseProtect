@@ -10,4 +10,4 @@ The Heart Disease prediction dataset is a collection of medical and demographic 
 This dataset was by MOHAMMED MUSTAFA!
 
 Please see the video preview of our web-app right here!
-[![Click the Image](https://img.youtube.com/vi/yKKC470vt3w/maxresdefault.jpg)](https://youtu.be/yKKC470vt3w)
+<img width="1233" alt="Screenshot 2024-04-24 at 10 46 11 PM" src="https://github.com/YashShah5/PulseProtect/assets/109703679/d01610c0-f2bc-4231-97da-3a6befcde74a">
